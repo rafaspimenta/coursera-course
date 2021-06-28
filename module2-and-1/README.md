@@ -1,4 +1,2 @@
-# coursera-html
-HTML, CSS, and Javascript course
-
-The github pages is enable: https://rafaspimenta.github.io/coursera-html/
+# module 2 and 1
+Lessons learned during the modules
